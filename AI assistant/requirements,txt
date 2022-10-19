@@ -6,3 +6,6 @@ subprocess
 pyjokes
 speedtest-cli
 geocoder
+geopy
+python_weather
+asyncio
