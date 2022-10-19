@@ -5,3 +5,4 @@ os
 subprocess
 pyjokes
 speedtest-cli
+geocoder
