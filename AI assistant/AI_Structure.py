@@ -2,7 +2,7 @@ import datetime, random, sys, os, web, subprocess, port_scanner_threaded, pyjoke
 from geopy.geocoders import Nominatim
 import python_weather
 import asyncio
-import os
+
 hello_response = [
     "Hey!",
     "Hello. What can I do for you?",
